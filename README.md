@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @willyscode
-- 👀 I’m interested in learning to code with Ruby and Java for full stack development
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @William Scott
+- 👀 I'm interested in Full Stack Development
+- 🌱 I’m currently learning Java at California State University, Sacramento
+- Stingers UP!
