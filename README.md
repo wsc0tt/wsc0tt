@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @William Scott
 - 👀 I'm interested in Full Stack Development
-- 🌱 I’m currently learning Java at California State University, Sacramento
-- Stingers UP!
+- 🌱 I’m currently majoring in Computer Science at California State University, Sacramento
+- Specializing in Software development/AI integration
