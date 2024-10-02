@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @William Scott
-- 👀 I'm interested in Full Stack Development
+- 👀 I'm interested in Full Stack Software Engineering / AI Engineering
 - 🌱 I’m currently majoring in Computer Science at California State University, Sacramento
-- Specializing in Software development/AI integration
